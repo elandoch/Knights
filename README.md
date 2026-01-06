@@ -1,4 +1,3 @@
 # Knights
 DS-450
-test
-test
+Caleb, Brandon, Ellie
