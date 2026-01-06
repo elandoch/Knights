@@ -1,3 +1,3 @@
 # Knights
 DS-450
-Caleb, Brandon, Ellie
+Caleb Bush, Brandon Boyle, Ellie Landoch
